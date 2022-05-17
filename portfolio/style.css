@@ -560,12 +560,12 @@ footer span a:hover{
     }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 991px) {
     .max-width{
         padding: 0 50px;
     }
 }
-@media only screen and (min-width: 800px){
+@media only screen and (max-width: 400px){
     .menu-btn{
         display: block;
         z-index: 999;
@@ -593,7 +593,7 @@ footer span a:hover{
     .navbar .menu li a{
         display: inline-block;
         margin: 20px 0;
-        font-size: 65px;
+        font-size: 25px;
     }
     .home .home-content .text-2{
         font-size: 70px;
