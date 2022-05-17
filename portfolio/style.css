@@ -630,7 +630,7 @@ footer span a:hover{
     }
 }
 
-@media (max-width: 690px) {
+/* @media (max-width: 690px) {
     .max-width{
         padding: 0 23px;
     }
@@ -677,4 +677,4 @@ footer span a:hover{
         font-size: 23px;
         line-height: 38px;
     }
-}
+} */
